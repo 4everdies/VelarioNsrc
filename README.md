@@ -3,4 +3,4 @@
 
 <img width="612" height="549" alt="Screenshot_1" src="https://github.com/user-attachments/assets/63bbd21d-386b-479f-9f2b-6b69f83caccd" />
 
--# https://discord.gg/crackcrew
+- discord.gg/crackcrew
